@@ -1,0 +1,12 @@
+{
+  "name": "두 가족의 부산 여행 (대전·천안 출발)",
+  "destination": { "name": "부산역", "lat": 35.1152, "lon": 129.0422 },
+  "meeting_purpose": "MEAL",
+  "meal_offset_minutes": 90,
+  "vehicles": [
+    { "label": "A", "nickname": "대전 차량", "lat": 36.3504, "lon": 127.3845 },
+    { "label": "B", "nickname": "천안 차량", "lat": 36.8151, "lon": 127.1139 }
+  ],
+  "speed_kmh": 90,
+  "update_interval_seconds": 5
+}

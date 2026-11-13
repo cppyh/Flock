@@ -1,0 +1,12 @@
+{
+  "name": "동호회 여수 드라이브 (광주·전주·대전 출발)",
+  "destination": { "name": "여수엑스포역", "lat": 34.7528, "lon": 127.7498 },
+  "meeting_purpose": "DEPART_TOGETHER",
+  "vehicles": [
+    { "label": "A", "nickname": "대전 차량", "lat": 36.3504, "lon": 127.3845 },
+    { "label": "B", "nickname": "전주 차량", "lat": 35.8242, "lon": 127.1480 },
+    { "label": "C", "nickname": "광주 차량", "lat": 35.1595, "lon": 126.8526 }
+  ],
+  "speed_kmh": 90,
+  "update_interval_seconds": 5
+}

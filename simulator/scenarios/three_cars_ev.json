@@ -1,0 +1,12 @@
+{
+  "name": "세 친구의 강릉 여행 (수원 차량은 배터리가 적은 전기차)",
+  "destination": { "name": "강릉역", "lat": 37.7640, "lon": 128.8996 },
+  "meeting_purpose": "REST",
+  "vehicles": [
+    { "label": "A", "nickname": "서울 차량", "lat": 37.5665, "lon": 126.9780 },
+    { "label": "B", "nickname": "수원 전기차", "lat": 37.2636, "lon": 127.0286, "battery_percent": 35 },
+    { "label": "C", "nickname": "인천 차량", "lat": 37.4563, "lon": 126.7052 }
+  ],
+  "speed_kmh": 90,
+  "update_interval_seconds": 5
+}

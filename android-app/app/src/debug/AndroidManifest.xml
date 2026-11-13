@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- debug 빌드의 HTTP 허용 범위는 debug/res/xml/network_security_config.xml에 있다. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" />

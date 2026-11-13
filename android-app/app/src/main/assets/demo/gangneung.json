@@ -1,0 +1,218 @@
+{
+  "group_name": "세 친구의 강릉 여행 (서울·수원·인천 출발)",
+  "destination": {
+    "name": "강릉역",
+    "lat": 37.764,
+    "lon": 128.8996
+  },
+  "meeting_purpose": "REST",
+  "my_vehicle_id": "demo-a",
+  "vehicles": [
+    {
+      "vehicle_id": "demo-a",
+      "nickname": "서울 차량",
+      "lat": 37.5665,
+      "lon": 126.978
+    },
+    {
+      "vehicle_id": "demo-b",
+      "nickname": "수원 차량",
+      "lat": 37.2636,
+      "lon": 127.0286
+    },
+    {
+      "vehicle_id": "demo-c",
+      "nickname": "인천 차량",
+      "lat": 37.4563,
+      "lon": 126.7052
+    }
+  ],
+  "recommendations": {
+    "recommendation_id": "demo-recommendation",
+    "group_id": "demo-group",
+    "computed_at": "2026-11-04T09:08:29Z",
+    "recommendations": [
+      {
+        "rank": 1,
+        "place_id": "50-평창(강릉)",
+        "name": "평창(강릉)",
+        "latitude": 37.6055701,
+        "longitude": 128.452681,
+        "direction": "강릉 방향",
+        "route_name": "영동선",
+        "estimated_group_meeting_time": "2026-11-04T11:31:25.500000Z",
+        "per_vehicle_arrival_eta": {
+          "demo-a": "2026-11-04T11:18:40.700000Z",
+          "demo-b": "2026-11-04T11:10:25.300000Z",
+          "demo-c": "2026-11-04T11:31:25.500000Z"
+        },
+        "per_vehicle_detour_minutes": {
+          "demo-a": 1.3,
+          "demo-b": 1.3,
+          "demo-c": 1.3
+        },
+        "per_vehicle_wait_minutes": {
+          "demo-a": 12.7,
+          "demo-b": 21.0,
+          "demo-c": 0.0
+        },
+        "total_detour_minutes": 3.9,
+        "total_wait_minutes": 33.8,
+        "max_detour_minutes": 1.3,
+        "max_wait_minutes": 21.0,
+        "shared_driving_minutes": 50.3,
+        "parking_or_stop_suitability": 0.99,
+        "parking_spaces": 196,
+        "has_restaurant": true,
+        "has_ev_charger": true,
+        "data_date": "2026-09-17",
+        "data_uncertain": false,
+        "is_destination_fallback": false,
+        "score": -0.172,
+        "reason": "총 우회 4분 / 최대 대기 21분 / 동행 50분"
+      },
+      {
+        "rank": 2,
+        "place_id": "destination",
+        "name": "강릉역",
+        "latitude": 37.764,
+        "longitude": 128.8996,
+        "direction": null,
+        "route_name": null,
+        "estimated_group_meeting_time": "2026-11-04T12:20:24.300000Z",
+        "per_vehicle_arrival_eta": {
+          "demo-a": "2026-11-04T12:07:39.500000Z",
+          "demo-b": "2026-11-04T11:59:24.100000Z",
+          "demo-c": "2026-11-04T12:20:24.300000Z"
+        },
+        "per_vehicle_detour_minutes": {
+          "demo-a": 0.0,
+          "demo-b": 0.0,
+          "demo-c": 0.0
+        },
+        "per_vehicle_wait_minutes": {
+          "demo-a": 12.7,
+          "demo-b": 21.0,
+          "demo-c": 0.0
+        },
+        "total_detour_minutes": 0.0,
+        "total_wait_minutes": 33.8,
+        "max_detour_minutes": 0.0,
+        "max_wait_minutes": 21.0,
+        "shared_driving_minutes": 0.0,
+        "parking_or_stop_suitability": null,
+        "parking_spaces": null,
+        "has_restaurant": null,
+        "has_ev_charger": null,
+        "data_date": null,
+        "data_uncertain": false,
+        "is_destination_fallback": true,
+        "score": 0.0,
+        "reason": "총 우회 0분 / 최대 대기 21분"
+      },
+      {
+        "rank": 3,
+        "place_id": "50-문막(강릉)",
+        "name": "문막(강릉)",
+        "latitude": 37.335469,
+        "longitude": 127.8582201,
+        "direction": "강릉 방향",
+        "route_name": "영동선",
+        "estimated_group_meeting_time": "2026-11-04T10:44:55.200000Z",
+        "per_vehicle_arrival_eta": {
+          "demo-a": "2026-11-04T10:36:48.300000Z",
+          "demo-b": "2026-11-04T10:18:07.400000Z",
+          "demo-c": "2026-11-04T10:44:55.200000Z"
+        },
+        "per_vehicle_detour_minutes": {
+          "demo-a": 11.7,
+          "demo-b": 1.2,
+          "demo-c": 7.0
+        },
+        "per_vehicle_wait_minutes": {
+          "demo-a": 8.1,
+          "demo-b": 26.8,
+          "demo-c": 0.0
+        },
+        "total_detour_minutes": 19.9,
+        "total_wait_minutes": 34.9,
+        "max_detour_minutes": 11.7,
+        "max_wait_minutes": 26.8,
+        "shared_driving_minutes": 102.5,
+        "parking_or_stop_suitability": 1.0,
+        "parking_spaces": 246,
+        "has_restaurant": true,
+        "has_ev_charger": true,
+        "data_date": "2026-09-17",
+        "data_uncertain": false,
+        "is_destination_fallback": false,
+        "score": 0.185,
+        "reason": "총 우회 20분 / 최대 대기 27분 / 동행 1시간 43분"
+      }
+    ],
+    "destination_comparison": {
+      "rank": 2,
+      "place_id": "destination",
+      "name": "강릉역",
+      "latitude": 37.764,
+      "longitude": 128.8996,
+      "direction": null,
+      "route_name": null,
+      "estimated_group_meeting_time": "2026-11-04T12:20:24.300000Z",
+      "per_vehicle_arrival_eta": {
+        "demo-a": "2026-11-04T12:07:39.500000Z",
+        "demo-b": "2026-11-04T11:59:24.100000Z",
+        "demo-c": "2026-11-04T12:20:24.300000Z"
+      },
+      "per_vehicle_detour_minutes": {
+        "demo-a": 0.0,
+        "demo-b": 0.0,
+        "demo-c": 0.0
+      },
+      "per_vehicle_wait_minutes": {
+        "demo-a": 12.7,
+        "demo-b": 21.0,
+        "demo-c": 0.0
+      },
+      "total_detour_minutes": 0.0,
+      "total_wait_minutes": 33.8,
+      "max_detour_minutes": 0.0,
+      "max_wait_minutes": 21.0,
+      "shared_driving_minutes": 0.0,
+      "parking_or_stop_suitability": null,
+      "parking_spaces": null,
+      "has_restaurant": null,
+      "has_ev_charger": null,
+      "data_date": null,
+      "data_uncertain": false,
+      "is_destination_fallback": true,
+      "score": 0.0,
+      "reason": "총 우회 0분 / 최대 대기 21분"
+    },
+    "notice": null,
+    "meet_window": {
+      "start": "2026-11-04T10:38:29Z",
+      "end": "2026-11-04T11:38:29Z"
+    },
+    "window_expanded": false,
+    "change_recommended": null,
+    "route_source": "OSRM",
+    "traffic_aware": false,
+    "excluded_vehicles": [],
+    "stats": {
+      "elapsed_seconds": 5.05,
+      "candidates_evaluated": 9,
+      "route_queries": 39,
+      "route_calls": 3,
+      "matrix_calls": 2,
+      "rejected": {
+        "FACILITY": 28,
+        "OFF_ROUTE": 171,
+        "OPPOSITE_DIRECTION": 7,
+        "OUTSIDE_WINDOW": 3,
+        "DETOUR_LIMIT": 3
+      }
+    },
+    "stale": false
+  }
+}

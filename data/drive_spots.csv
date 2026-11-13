@@ -1,0 +1,101 @@
+id,name,themes,region,lat,lon,description,source
+sea-eurwangni,을왕리해수욕장,SEA,인천 중구,37.446924,126.372363,서해 낙조와 해변 산책,OSM
+sea-jeongseojin,정서진,SEA|NIGHT,인천 서구,37.557013,126.604718,아라뱃길 끝 노을 명소,OSM
+sea-bangameori,방아머리해수욕장,SEA,경기 안산,37.287528,126.574133,대부도 입구 갯벌 해변,OSM
+sea-gungpyeong,궁평항,SEA,경기 화성,37.116655,126.681844,서해 낙조와 수산시장,OSM
+sea-jebudo,제부도,SEA,경기 화성,37.168554,126.622557,바닷길이 열리는 섬,OSM
+sea-oido,오이도 빨간등대,SEA|NIGHT,경기 시흥,37.345626,126.687472,등대와 방파제 노을,OSM
+sea-masian,마시안해변,SEA,인천 중구,37.42761,126.41865,영종도 갯벌 해변 카페거리,OSM
+sea-dongmak,동막해수욕장,SEA,인천 강화,37.592129,126.458997,강화도 갯벌 해변,OSM
+sea-minmeoru,민머루해수욕장,SEA,인천 강화,37.65052,126.33407,석모도 해변,OSM
+sea-waemok,왜목마을,SEA,충남 당진,37.04467,126.527303,서해에서 해돋이를 보는 마을,OSM
+sea-kkotji,꽃지해수욕장,SEA,충남 태안,36.487102,126.335544,할미할아비바위 낙조,OSM
+sea-mallipo,만리포해수욕장,SEA,충남 태안,36.787943,126.143983,넓은 백사장 해변,OSM
+sea-daecheon,대천해수욕장,SEA,충남 보령,36.31134,126.51272,서해 대표 해변,OSM
+sea-jeongdongjin,정동진,SEA,강원 강릉,37.69183,129.032508,해돋이 명소 바닷가 역,OSM
+sea-gyeongpo,경포해변,SEA,강원 강릉,37.804239,128.906719,동해 대표 해변,OSM
+sea-anmok,안목해변,SEA|NIGHT,강원 강릉,37.773569,128.945388,바다 앞 커피거리,OSM
+sea-sacheonjin,사천진해변,SEA,강원 강릉,37.843058,128.873408,조용한 동해 해변,OSM
+sea-sokcho,속초해수욕장,SEA,강원 속초,38.188131,128.605664,시내와 가까운 동해 해변,OSM
+sea-naksan,낙산해수욕장,SEA,강원 양양,38.115635,128.636006,낙산사 아래 해변,OSM
+sea-hajodae,하조대,SEA,강원 양양,38.023142,128.725164,바위 절벽과 정자,OSM
+sea-hwajinpo,화진포해수욕장,SEA,강원 고성,38.478333,128.438624,호수와 바다가 맞닿은 해변,OSM
+sea-chuam,추암 촛대바위,SEA,강원 동해,37.479097,129.159955,기암괴석 해돋이 명소,OSM
+sea-saecheonnyeon,새천년해안도로,SEA,강원 삼척,37.436693,129.184215,바다를 끼고 달리는 해안도로,OSM
+sea-ganggu,강구항,SEA,경북 영덕,36.356748,129.392784,대게 거리와 항구,OSM
+sea-homigot,호미곶,SEA,경북 포항,36.076023,129.566029,상생의 손 해돋이 명소,OSM
+sea-haeundae,해운대해수욕장,SEA,부산 해운대,35.159286,129.158609,부산 대표 해변,OSM
+sea-songjeong,송정해수욕장,SEA,부산 해운대,35.177653,129.198583,서핑 해변,OSM
+sea-dadaepo,다대포해수욕장,SEA|NIGHT,부산 사하,35.048195,128.966019,낙조와 분수,OSM
+sea-gwanganri,광안리해수욕장,SEA|NIGHT,부산 수영,35.150888,129.116781,광안대교 야경 해변,OSM
+sea-ganjeolgot,간절곶,SEA,울산 울주,35.359212,129.361785,해돋이 명소,OSM
+sea-daewangam,대왕암공원,SEA|FOREST,울산 동구,35.49236,129.440178,송림과 바위 해안,OSM
+sea-windhill,바람의 언덕,SEA,경남 거제,34.743957,128.66329,풍차와 바다 언덕,OSM
+sea-germanvillage,독일마을,SEA,경남 남해,34.799233,128.040129,바다가 보이는 마을,OSM
+sea-hyangiram,향일암,SEA,전남 여수,34.591494,127.803756,바다 절벽 위 암자,OSM
+sea-seonyudo,선유도해수욕장,SEA,전북 군산,35.818143,126.412045,고군산군도 섬 해변,OSM
+sea-byeonsan,변산해수욕장,SEA,전북 부안,35.680318,126.531129,변산반도 해변,OSM
+forest-nami,남이섬,FOREST,강원 춘천,37.791728,127.525144,메타세쿼이아 길과 강변,OSM
+forest-morningcalm,아침고요수목원,FOREST,경기 가평,37.741728,127.352016,정원 산책,OSM
+forest-gwangneung,국립수목원,FOREST,경기 포천,37.754101,127.165666,광릉숲,OSM
+forest-hwadam,화담숲,FOREST,경기 광주,37.336543,127.298489,모노레일 숲 산책,OSM
+forest-namhansanseong,남한산성,FOREST|NIGHT,경기 광주,37.477845,127.182849,성곽 숲길과 서울 야경,OSM
+forest-chukryeong,축령산자연휴양림,FOREST,경기 남양주,37.75478,127.314455,잣나무 숲 휴양림,OSM
+forest-sanum,산음자연휴양림,FOREST,경기 양평,37.591103,127.586775,깊은 숲 휴양림,OSM
+forest-woljeongsa,월정사 전나무숲길,FOREST,강원 평창,37.731937,128.591995,천년 전나무 숲길,OSM
+forest-daegwallyeong,대관령 양떼목장,FOREST,강원 평창,37.689528,128.753296,초원과 고갯길,OSM
+forest-manhangjae,만항재,FOREST,강원 정선,37.148491,128.899314,가장 높은 포장 고갯길,OSM
+forest-damyang,메타세쿼이아길,FOREST,전남 담양,35.321934,127.001924,가로수 드라이브 길,OSM
+forest-juknokwon,죽녹원,FOREST,전남 담양,35.328627,126.985559,대나무 숲,OSM
+forest-chukryeongsan,축령산 편백숲,FOREST,전남 장성,35.381534,126.731114,편백나무 숲,OSM
+forest-jangtaesan,장태산자연휴양림,FOREST,대전 서구,36.219296,127.339483,메타세쿼이아 휴양림,OSM
+forest-cheongnamdae,청남대,FOREST|LAKE,충북 청주,36.462234,127.490382,대청호 옆 정원 숲,OSM
+forest-beopjusa,법주사 오리숲,FOREST,충북 보은,36.543822,127.834966,속리산 숲길,OSM
+forest-anmyeondo,안면도자연휴양림,FOREST,충남 태안,36.494785,126.364615,안면송 숲,OSM
+forest-bulguksa,불국사,FOREST,경북 경주,35.788995,129.33089,토함산 숲길,OSM
+night-namsan,남산서울타워,NIGHT,서울 용산,37.55127,126.988281,서울 한가운데 야경,OSM
+night-bugak,북악스카이웨이 팔각정,NIGHT|FOREST,서울 종로,37.606491,126.985093,숲길 드라이브와 야경,OSM
+night-naksan,낙산공원,NIGHT,서울 종로,37.580534,127.007609,성곽길 야경,OSM
+night-haneul,하늘공원,NIGHT,서울 마포,37.568064,126.884978,억새와 한강 야경,OSM
+night-banpo,반포한강공원,NIGHT|LAKE,서울 서초,37.508873,126.993944,달빛무지개분수,OSM
+night-lotteworldtower,롯데월드타워,NIGHT,서울 송파,37.512554,127.102679,초고층 전망대,OSM
+night-songdo,송도센트럴파크,NIGHT,인천 연수,37.392256,126.634755,수로와 고층빌딩 야경,OSM
+night-wolmido,월미도,NIGHT|SEA,인천 중구,37.47297,126.602828,바다 야경과 놀이공원,OSM
+night-sorae,소래포구,NIGHT|SEA,인천 남동,37.400245,126.739355,포구 야경,OSM
+night-hwaseong,수원화성 화홍문,NIGHT,경기 수원,37.287526,127.017604,방화수류정과 성곽 야경,OSM
+night-gwanggyo,광교호수공원,NIGHT|LAKE,경기 수원,37.283382,127.066481,호수 야경,OSM
+night-baegun,백운호수,NIGHT|LAKE,경기 의왕,37.381219,127.000751,호숫가 카페 야경,OSM
+night-ilsan,일산호수공원,NIGHT|LAKE,경기 고양,37.658806,126.767244,도심 호수 산책,OSM
+night-hwangnyeongsan,황령산 봉수대,NIGHT,부산 남구,35.157335,129.081909,부산 전경 야경,OSM
+night-igidae,이기대,NIGHT|SEA,부산 남구,35.122837,129.123591,해안 산책로와 광안대교,OSM
+night-apsan,앞산공원,NIGHT,대구 남구,35.831245,128.588976,케이블카 전망대와 대구 야경,OSM
+night-expo,엑스포다리,NIGHT,대전 유성,36.372613,127.388043,갑천 다리 야경,OSM
+night-dolsan,돌산공원,NIGHT|SEA,전남 여수,34.730308,127.73965,여수 밤바다,OSM
+night-spacewalk,스페이스워크,NIGHT|SEA,경북 포항,36.065109,129.39044,바다 위 산책 조형물,OSM
+night-donggung,동궁과 월지,NIGHT,경북 경주,35.8347,129.226438,연못에 비친 야경,OSM
+night-woryeonggyo,월영교,NIGHT|LAKE,경북 안동,36.576596,128.76093,호수 위 나무다리,OSM
+lake-dumulmeori,두물머리,LAKE,경기 양평,37.532773,127.315934,두 강이 만나는 물안개,OSM
+lake-mului,물의정원,LAKE,경기 남양주,37.55679,127.314889,북한강 강변 정원,OSM
+lake-cheongpyeong,청평호 청평댐,LAKE,경기 가평,37.725636,127.421219,호숫가 드라이브,OSM
+lake-sanjeong,산정호수,LAKE,경기 포천,38.070956,127.320963,산으로 둘러싸인 호수,OSM
+lake-soyang,소양강 스카이워크,LAKE|NIGHT,강원 춘천,37.893962,127.723443,강 위 유리 산책로,OSM
+lake-uiam,의암호 의암공원,LAKE,강원 춘천,37.873624,127.707923,호숫가 자전거길,OSM
+lake-cheongpung,청풍호반 문화재단지,LAKE,충북 제천,37.0031,128.1725,내륙의 바다 호반길,OSM
+lake-uirimji,의림지,LAKE,충북 제천,37.173245,128.210629,오래된 저수지와 소나무,OSM
+lake-daecheong,대청댐,LAKE,대전 동구,36.476555,127.481334,대청호 전망과 물문화관,OSM
+lake-yedang,예당호 출렁다리,LAKE,충남 예산,36.638802,126.802023,호수 위 출렁다리,OSM
+lake-tapjeong,탑정호 출렁다리,LAKE,충남 논산,36.181979,127.158919,호수 출렁다리,OSM
+lake-bomun,보문관광단지,LAKE,경북 경주,35.843633,129.287022,보문호 벚꽃 호반길,OSM
+sea-ganwolam,간월암,SEA,충남 서산,36.60372,126.411205,바다 위 작은 암자와 낙조,OSM
+sea-hakampo,학암포해수욕장,SEA,충남 태안,36.897225,126.202749,조용한 서해 해변,OSM
+sea-sinduri,신두리해수욕장,SEA,충남 태안,36.840777,126.191123,해안사구와 넓은 해변,OSM
+forest-yongin,용인자연휴양림,FOREST,경기 용인,37.314533,127.264494,숲 산책로와 전망대,OSM
+forest-mulhyanggi,물향기수목원,FOREST,경기 오산,37.167445,127.05525,수목원 산책,OSM
+forest-yumyeongsan,유명산자연휴양림,FOREST,경기 가평,37.591781,127.480721,계곡과 숲길,OSM
+forest-cheongtaesan,청태산자연휴양림,FOREST,강원 횡성,37.525069,128.294574,잣나무 숲 데크길,OSM
+forest-guryongsa,구룡사,FOREST,강원 원주,37.399698,128.049657,치악산 계곡 숲길,OSM
+forest-sutasa,수타사,FOREST,강원 홍천,37.698499,127.959126,산소길 숲 산책,OSM
+lake-pyeongtaek,평택호관광단지,LAKE|NIGHT,경기 평택,36.91498,126.907753,호숫가 산책과 야경,OSM
+lake-eunpa,은파호수공원,LAKE|NIGHT,전북 군산,35.950948,126.696079,물빛다리 야경,OSM
+night-jeonju,전주한옥마을,NIGHT,전북 전주,35.818158,127.153051,한옥 골목 야경,OSM
+lake-dodam,도담삼봉,LAKE,충북 단양,37.000117,128.343889,남한강 위 세 봉우리,OSM

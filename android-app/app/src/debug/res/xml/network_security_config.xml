@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 개발용 debug 빌드는 같은 망의 다른 PC 서버에도 HTTP로 붙을 수 있게 한다. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

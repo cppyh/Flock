@@ -1,0 +1,29 @@
+# 비밀값
+.env
+*.keystore
+keystore.properties
+*.jks
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.db-shm
+*.db-wal
+
+# Android (android-app/.gitignore에 상세 규칙이 있다)
+android-app/local.properties
+android-app/build/
+android-app/app/build/
+android-app/navi-smoke/build/
+android-app/.gradle/
+android-app/.kotlin/
+
+# 제출용 APK는 apk/에 직접 넣을 때만 추적한다
+*.apk
+!apk/*.apk
+
+.DS_Store
+Thumbs.db
